@@ -39,42 +39,28 @@ public class 规则检测 : MonoBehaviour
         int StartLogX = ToolManager.ChangeToLineX(ChessManager.ChessArray[SelectedId].Vec_X);
         int StartLogY = ToolManager.ChangeToLineY(ChessManager.ChessArray[SelectedId].Vec_Y);
 
-        // 【修正】逻辑重新梳理
-        // 情况1：直走2格，横走1格 (LogY差2，LogX差1)
-        if (Math.Abs(StartLogY - TargetLogY) == 2 && Math.Abs(StartLogX - TargetLogX) == 1)
+        int dy = Math.Abs(StartLogY - TargetLogY);
+        int dx = Math.Abs(StartLogX - TargetLogX);
+
+        // 情况1：纵向走2格，横向走1格
+        if (dy == 2 && dx == 1)
         {
-            // 蹩马腿检测：检查纵向中间点 (LogY变化方向)
-            // 如果是向上走 (StartLogY > TargetLogY)，检查 StartLogY - 1 的位置
-            if (StartLogY - TargetLogY > 0)
-            {
-                // 【修正】参数顺序，中间点坐标
-                if (ToolManager.CountLineChess(StartLogX, StartLogY, StartLogX, StartLogY - 1) == 0) { return true; }
-            }
-            // 如果是向下走 (StartLogY < TargetLogY)，检查 StartLogY + 1 的位置
-            else if (StartLogY - TargetLogY < 0)
-            {
-                if (ToolManager.CountLineChess(StartLogX, StartLogY, StartLogX, StartLogY + 1) == 0) { return true; }
-            }
-            else { return false; }
+            // 蹩马腿：检查纵向中点是否有棋子
+            int midY = (StartLogY + TargetLogY) / 2;
+            if (ToolManager.GetChessId(StartLogX, midY) == -1)
+                return true;
         }
-        // 情况2：横走2格，直走1格 (LogX差2，LogY差1)
-        else if (Math.Abs(StartLogY - TargetLogY) == 1 && Math.Abs(StartLogX - TargetLogX) == 2)
+        // 情况2：横向走2格，纵向走1格
+        else if (dy == 1 && dx == 2)
         {
-            // 蹩马腿检测：检查横向中间点 (LogX变化方向)
-            if (StartLogX - TargetLogX > 0)
-            {
-                // 【修正】参数顺序，中间点坐标
-                if (ToolManager.CountLineChess(StartLogX, StartLogY, StartLogX - 1, StartLogY) == 0) { return true; }
-            }
-            else if (StartLogX - TargetLogX < 0)
-            {
-                if (ToolManager.CountLineChess(StartLogX, StartLogY, StartLogX + 1, StartLogY) == 0) { return true; }
-            }
-            else { return false; }
+            // 蹩马腿：检查横向中点是否有棋子
+            int midX = (StartLogX + TargetLogX) / 2;
+            if (ToolManager.GetChessId(midX, StartLogY) == -1)
+                return true;
         }
+
         return false;
     }
-
     public static bool 炮(int SelectedId, int TargetLogY, int TargetLogX, int DistoryID)
     {
         int StartLogX = ToolManager.ChangeToLineX(ChessManager.ChessArray[SelectedId].Vec_X);
