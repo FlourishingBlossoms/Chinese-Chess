@@ -1,0 +1,9 @@
+﻿  game.c
+  main.c
+  protocol.c
+  rule.c
+  server.c
+  正在生成代码...
+E:\大创项目\服务端\server.c(207,42): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\大创项目\服务端\server.c(219,76): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+  服务端.vcxproj -> E:\大创项目\服务端\x64\Debug\服务端.exe
