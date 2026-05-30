@@ -1,0 +1,453 @@
+Using pre-set license
+Built from '2022.3/china_unity/release' branch; Version is '2022.3.43f1c1 (7a2282349f6f) revision 8004226'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16107 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\安装应用\Unity\2022.3.43f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/大创项目/Chiness Chess
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49723
+Successfully changed project path to: E:/大创项目/Chiness Chess
+E:/大创项目/Chiness Chess
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [14784]  Target information:
+
+Player connection [14784]  * "[IP] 10.53.59.129 [Port] 0 [Flags] 2 [Guid] 2955074500 [EditorId] 2955074500 [Version] 1048832 [Id] WindowsEditor(7,��ɫ��) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [14784] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [14784] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+Refreshing native plugins compatible for Editor in 30.26 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.43f1c1 (7a2282349f6f)
+[Subsystems] Discovering subsystems at path D:/安装应用/Unity/2022.3.43f1c1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/大创项目/Chiness Chess/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 5060 Laptop GPU (ID=0x2d59)
+    Vendor:   NVIDIA
+    VRAM:     7899 MB
+    Driver:   32.0.15.9579
+Initialize mono
+Mono path[0] = 'D:/安装应用/Unity/2022.3.43f1c1/Editor/Data/Managed'
+Mono path[1] = 'D:/安装应用/Unity/2022.3.43f1c1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/安装应用/Unity/2022.3.43f1c1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56364
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/安装应用/Unity/2022.3.43f1c1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/安装应用/Unity/2022.3.43f1c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009446 seconds.
+- Loaded All Assemblies, in  0.478 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.289 seconds
+Domain Reload Profiling: 758ms
+	BeginReloadAssembly (196ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (147ms)
+		LoadAssemblies (190ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (144ms)
+			TypeCache.Refresh (143ms)
+				TypeCache.ScanAssembly (130ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (289ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (236ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (159ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.965 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.845 seconds
+Domain Reload Profiling: 1801ms
+	BeginReloadAssembly (202ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (643ms)
+		LoadAssemblies (566ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (208ms)
+			TypeCache.Refresh (177ms)
+				TypeCache.ScanAssembly (157ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (845ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (674ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (134ms)
+			ProcessInitializeOnLoadAttributes (473ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 16.28 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4290 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 35 unused Assets / (59.0 KB). Loaded Objects now: 4759.
+Memory consumption went from 154.6 MB to 154.5 MB.
+Total: 3.642200 ms (FindLiveObjects: 0.221200 ms CreateObjectMapping: 0.082500 ms MarkObjects: 3.223800 ms  DeleteObjects: 0.113600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 761.943356 seconds.
+  path: Assets/做出来的东西/Scenes/游戏界面 1.unity
+  artifactKey: Guid(ea20345cc3fe3534ab415481c69e085a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/Scenes/游戏界面 1.unity using Guid(ea20345cc3fe3534ab415481c69e085a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '605f49918b8c4be19ca6586fd5124464') in 0.002522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.077449 seconds.
+  path: Assets/做出来的东西/Scenes/联机游戏界面.unity
+  artifactKey: Guid(ea20345cc3fe3534ab415481c69e085a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/Scenes/联机游戏界面.unity using Guid(ea20345cc3fe3534ab415481c69e085a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '2f2f305e99adc76e3bc231bf866bc499') in 0.000691 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 78.525654 seconds.
+  path: Assets/做出来的东西/客户端/客户端/ChessProtocol.cs
+  artifactKey: Guid(44d74e7f57473f746937204a657a13ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/客户端/客户端/ChessProtocol.cs using Guid(44d74e7f57473f746937204a657a13ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8f407e56038c94406c59712e378ac5d0') in 0.011273 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 233.485871 seconds.
+  path: Assets/做出来的东西/Manager 脚本/选择象棋.cs
+  artifactKey: Guid(36c026c298d63934097388e04275cfb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/Manager 脚本/选择象棋.cs using Guid(36c026c298d63934097388e04275cfb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '37495b7d9a586b2b9aa6072683e8a96e') in 0.001030 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 7.196044 seconds.
+  path: Assets/做出来的东西/Manager 脚本/选择象棋1.cs
+  artifactKey: Guid(d48fe31380394ff468dbc3cd8d63fd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/Manager 脚本/选择象棋1.cs using Guid(d48fe31380394ff468dbc3cd8d63fd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'df1bfc91e4ded1033de1f9dae06c0eef') in 0.000739 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 21.207224 seconds.
+  path: Assets/做出来的东西/Manager 脚本/选择象棋多人版.cs
+  artifactKey: Guid(d48fe31380394ff468dbc3cd8d63fd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/Manager 脚本/选择象棋多人版.cs using Guid(d48fe31380394ff468dbc3cd8d63fd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '8c10d368f2b844adbc4b07e43e4078a5') in 0.000688 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 234.583150 seconds.
+  path: Assets/做出来的东西/Manager 脚本/选择象棋多人版.cs
+  artifactKey: Guid(d48fe31380394ff468dbc3cd8d63fd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/Manager 脚本/选择象棋多人版.cs using Guid(d48fe31380394ff468dbc3cd8d63fd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c0794ba196b8f718081a3c4040b7b3d7') in 0.001325 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3885.105230 seconds.
+  path: Assets/做出来的东西/Manager 脚本/选择象棋多人版.cs
+  artifactKey: Guid(d48fe31380394ff468dbc3cd8d63fd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/Manager 脚本/选择象棋多人版.cs using Guid(d48fe31380394ff468dbc3cd8d63fd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'c10ee9d42e298b18fad4199a34019d6a') in 0.024264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 33.055 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.505 seconds
+Domain Reload Profiling: 34544ms
+	BeginReloadAssembly (28504ms)
+		ExecutionOrderSort (2ms)
+		DisableScriptedObjects (27920ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (203ms)
+	RebuildCommonClasses (251ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (4199ms)
+		LoadAssemblies (4378ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (100ms)
+			TypeCache.Refresh (54ms)
+				TypeCache.ScanAssembly (6ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (21ms)
+	FinalizeReload (1506ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1139ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (229ms)
+			ProcessInitializeOnLoadAttributes (755ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (51ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (35ms)
+Refreshing native plugins compatible for Editor in 17.93 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4266 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (32.7 KB). Loaded Objects now: 4766.
+Memory consumption went from 149.2 MB to 149.2 MB.
+Total: 4.997200 ms (FindLiveObjects: 0.253700 ms CreateObjectMapping: 0.098200 ms MarkObjects: 4.546900 ms  DeleteObjects: 0.088700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/选择象棋多人版.cs: b8f72efbc60a68d854c997af4d711afa -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: f4b1e52b5be76b0f482b7344a5faf3ba -> 0fc9a2011dbca47c3c849038ae4d5a6b
+========================================================================
+Received Import Request.
+  Time since last request: 195.460762 seconds.
+  path: Assets/素材/神秘小素材/RenOuFangSong-16 SDF.asset
+  artifactKey: Guid(599ebce5bf7ba1d418c7d9756e5da97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/神秘小素材/RenOuFangSong-16 SDF.asset using Guid(599ebce5bf7ba1d418c7d9756e5da97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '00ac500165eca43426379c198acf32cc') in 0.256828 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 60.755173 seconds.
+  path: Assets/素材/神秘小素材/RenOuFangSong-16 SDF.asset
+  artifactKey: Guid(599ebce5bf7ba1d418c7d9756e5da97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/神秘小素材/RenOuFangSong-16 SDF.asset using Guid(599ebce5bf7ba1d418c7d9756e5da97b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '1fdc46e535b970e6fae2ca1ae5a06a88') in 0.035633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 1294.530978 seconds.
+  path: Assets/做出来的东西/客户端/客户端/NewBehaviourScript.cs
+  artifactKey: Guid(675a05cd32906bc4aa2412c3cabfa977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/客户端/客户端/NewBehaviourScript.cs using Guid(675a05cd32906bc4aa2412c3cabfa977) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '73b373b9d3d7e15ee964d1e8a9136ab5') in 0.001434 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 10.526254 seconds.
+  path: Assets/做出来的东西/客户端/客户端/NetworkManager.cs
+  artifactKey: Guid(675a05cd32906bc4aa2412c3cabfa977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/客户端/客户端/NetworkManager.cs using Guid(675a05cd32906bc4aa2412c3cabfa977) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: 'dc2c405b43928a745038d446cf76334d') in 0.001757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 832.074128 seconds.
+  path: Assets/做出来的东西/客户端/客户端/NetworkManager.cs
+  artifactKey: Guid(675a05cd32906bc4aa2412c3cabfa977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/客户端/客户端/NetworkManager.cs using Guid(675a05cd32906bc4aa2412c3cabfa977) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '220625af21710040c166a7b2bbc06553') in 0.001140 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.068567 seconds.
+  path: Assets/做出来的东西/客户端/客户端/NetworkManager.cs
+  artifactKey: Guid(675a05cd32906bc4aa2412c3cabfa977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/客户端/客户端/NetworkManager.cs using Guid(675a05cd32906bc4aa2412c3cabfa977) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '276e30569622ca050ca2dc0a63a3ae05') in 0.002309 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.939 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.905 seconds
+Domain Reload Profiling: 5833ms
+	BeginReloadAssembly (279ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (22ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (73ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (552ms)
+		LoadAssemblies (648ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (44ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (14ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (4906ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1198ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (17ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (315ms)
+			ProcessInitializeOnLoadAttributes (716ms)
+			ProcessInitializeOnLoadMethodAttributes (81ms)
+			AfterProcessingInitializeOnLoad (52ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (38ms)
+Refreshing native plugins compatible for Editor in 34.20 ms, found 6 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4267 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (32.7 KB). Loaded Objects now: 4816.
+Memory consumption went from 154.0 MB to 153.9 MB.
+Total: 8.556700 ms (FindLiveObjects: 0.405800 ms CreateObjectMapping: 0.255500 ms MarkObjects: 7.773400 ms  DeleteObjects: 0.106400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/选择象棋多人版.cs: b8f72efbc60a68d854c997af4d711afa -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: e479c489edd05b26754eb4b1a534ea18 -> 0fc9a2011dbca47c3c849038ae4d5a6b
+========================================================================
+Received Import Request.
+  Time since last request: 1028.177108 seconds.
+  path: Assets/做出来的东西/客户端/客户端/client.cpp
+  artifactKey: Guid(bda73002cd1360a41bcb97bb74ec9e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/做出来的东西/客户端/客户端/client.cpp using Guid(bda73002cd1360a41bcb97bb74ec9e08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
+ -> (artifact id: '9cc16da53a4dd9fd12bd9c570c1797d2') in 0.025585 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

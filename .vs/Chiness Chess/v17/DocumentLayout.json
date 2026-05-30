@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\chess_network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\chess_network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|e:\\\u5927\u521B\u9879\u76EE\\chiness chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|e:\\\u5927\u521B\u9879\u76EE\\chiness chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\ui\u6807\u8BC6\\\u5F00\u59CB\u754C\u9762ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\ui\u6807\u8BC6\\\u5F00\u59CB\u754C\u9762ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\chess manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\chess manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB\u591A\u4EBA\u7248.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB\u591A\u4EBA\u7248.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\ai\\chessevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\ai\\chessevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\\u89C4\u5219\u68C0\u6D4B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\\u89C4\u5219\u68C0\u6D4B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\manager \u811A\u672C\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\ui\u6807\u8BC6\\\u767B\u5F55\\\u8F93\u5165\u6846.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\ui\u6807\u8BC6\\\u767B\u5F55\\\u8F93\u5165\u6846.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\db\\sqliteconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\db\\sqliteconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\db\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\db\\startgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\db\\sqldbcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\db\\sqldbcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cpp",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\client.cpp",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\client.cpp",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\client.cpp",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\client.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-29T08:52:47.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chess_Network.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\Chess_Network.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\Chess_Network.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\Chess_Network.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\Chess_Network.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T13:37:27.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\NetworkManager.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\NetworkManager.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\\u5BA2\u6237\u7AEF\\\u5BA2\u6237\u7AEF\\NetworkManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T08:21:35.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChessEvaluator.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\AI\\ChessEvaluator.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\AI\\ChessEvaluator.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\AI\\ChessEvaluator.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\AI\\ChessEvaluator.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAxwEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T11:45:52.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "\u9009\u62E9\u8C61\u68CB.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB.cs",
+              "ViewState": "AgIAAC8EAAAAAAAAAAAswEUEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:34:37.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToolManager.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\ToolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\ToolManager.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\ToolManager.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\ToolManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:34:32.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u89C4\u5219\u68C0\u6D4B.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u89C4\u5219\u68C0\u6D4B.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u89C4\u5219\u68C0\u6D4B.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u89C4\u5219\u68C0\u6D4B.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u89C4\u5219\u68C0\u6D4B.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAswIoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T12:23:28.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chess Manager.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\Chess Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\Chess Manager.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\Chess Manager.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\Chess Manager.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwD8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T07:55:58.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u5F00\u59CB\u754C\u9762UI.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\UI\u6807\u8BC6\\\u5F00\u59CB\u754C\u9762UI.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\UI\u6807\u8BC6\\\u5F00\u59CB\u754C\u9762UI.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\UI\u6807\u8BC6\\\u5F00\u59CB\u754C\u9762UI.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\UI\u6807\u8BC6\\\u5F00\u59CB\u754C\u9762UI.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAnwEYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:01:52.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u9009\u62E9\u8C61\u68CB\u591A\u4EBA\u7248.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB\u591A\u4EBA\u7248.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB\u591A\u4EBA\u7248.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB\u591A\u4EBA\u7248.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\Manager \u811A\u672C\\\u9009\u62E9\u8C61\u68CB\u591A\u4EBA\u7248.cs",
+              "ViewState": "AgIAAEECAAAAAAAAAAA2wGICAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T06:50:16.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "\u8F93\u5165\u6846.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\UI\u6807\u8BC6\\\u767B\u5F55\\\u8F93\u5165\u6846.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\UI\u6807\u8BC6\\\u767B\u5F55\\\u8F93\u5165\u6846.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\UI\u6807\u8BC6\\\u767B\u5F55\\\u8F93\u5165\u6846.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\UI\u6807\u8BC6\\\u767B\u5F55\\\u8F93\u5165\u6846.cs",
+              "ViewState": "AgIAAKoCAAAAAAAAAAA1wLoCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:22:47.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SQLDBCommand.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\SQLDBCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\SQLDBCommand.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\SQLDBCommand.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\SQLDBCommand.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAYwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:21:49.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLiteConnect.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\SQLiteConnect.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\SQLiteConnect.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\SQLiteConnect.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\SQLiteConnect.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:21:49.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\StartGame.cs",
+              "ToolTip": "E:\\\u5927\u521B\u9879\u76EE\\Chiness Chess\\Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\StartGame.cs",
+              "RelativeToolTip": "Assets\\\u505A\u51FA\u6765\u7684\u4E1C\u897F\\DB\\StartGame.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:03:45.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

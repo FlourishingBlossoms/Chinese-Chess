@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Chiness Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|e:\\chiness chess\\assets\\\u9009\u62E9\u8C61\u68CB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1C03917-9D25-0771-6141-016D9E90F2A2}|Assembly-CSharp.csproj|solutionrelative:assets\\\u9009\u62E9\u8C61\u68CB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|E:\\Chiness Chess\\assets\\\u89C4\u5219\u68C0\u6D4B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|solutionrelative:assets\\\u89C4\u5219\u68C0\u6D4B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|E:\\Chiness Chess\\assets\\anm\\loading\\\u4E00\u8FB9\u65CB\u8F6C\u4E00\u8FB9\u4E0B\u843D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|solutionrelative:assets\\anm\\loading\\\u4E00\u8FB9\u65CB\u8F6C\u4E00\u8FB9\u4E0B\u843D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|E:\\Chiness Chess\\assets\\anm\\loading\\\u751F\u6210\u6708\u4EAE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|solutionrelative:assets\\anm\\loading\\\u751F\u6210\u6708\u4EAE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|E:\\Chiness Chess\\assets\\\u6E38\u620F\u754C\u9762ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|solutionrelative:assets\\\u6E38\u620F\u754C\u9762ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|E:\\Chiness Chess\\assets\\anm\\loading\\\u5C11\u5973\u5206\u5F62.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|solutionrelative:assets\\anm\\loading\\\u5C11\u5973\u5206\u5F62.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|E:\\Chiness Chess\\assets\\\u5F00\u59CB\u754C\u9762ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|solutionrelative:assets\\\u5F00\u59CB\u754C\u9762ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|E:\\Chiness Chess\\assets\\chess manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|solutionrelative:assets\\chess manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|E:\\Chiness Chess\\assets\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A4BE4D-580C-F65E-5471-B5F85E72DF75}|Assembly-CSharp.csproj|solutionrelative:assets\\toolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-0019-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u9009\u62E9\u8C61\u68CB.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\\u9009\u62E9\u8C61\u68CB.cs",
+              "RelativeDocumentMoniker": "Assets\\\u9009\u62E9\u8C61\u68CB.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\\u9009\u62E9\u8C61\u68CB.cs",
+              "RelativeToolTip": "Assets\\\u9009\u62E9\u8C61\u68CB.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAA1wMIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:35:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u89C4\u5219\u68C0\u6D4B.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\\u89C4\u5219\u68C0\u6D4B.cs",
+              "RelativeDocumentMoniker": "Assets\\\u89C4\u5219\u68C0\u6D4B.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\\u89C4\u5219\u68C0\u6D4B.cs",
+              "RelativeToolTip": "Assets\\\u89C4\u5219\u68C0\u6D4B.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:33:43.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToolManager.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\ToolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ToolManager.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\ToolManager.cs",
+              "RelativeToolTip": "Assets\\ToolManager.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwJQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:27:59.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Chess Manager.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\Chess Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Chess Manager.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\Chess Manager.cs",
+              "RelativeToolTip": "Assets\\Chess Manager.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwL4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T03:11:53.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u5F00\u59CB\u754C\u9762UI.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\\u5F00\u59CB\u754C\u9762UI.cs",
+              "RelativeDocumentMoniker": "Assets\\\u5F00\u59CB\u754C\u9762UI.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\\u5F00\u59CB\u754C\u9762UI.cs",
+              "RelativeToolTip": "Assets\\\u5F00\u59CB\u754C\u9762UI.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:14:21.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u5C11\u5973\u5206\u5F62.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\ANM\\loading\\\u5C11\u5973\u5206\u5F62.cs",
+              "RelativeDocumentMoniker": "Assets\\ANM\\loading\\\u5C11\u5973\u5206\u5F62.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\ANM\\loading\\\u5C11\u5973\u5206\u5F62.cs",
+              "RelativeToolTip": "Assets\\ANM\\loading\\\u5C11\u5973\u5206\u5F62.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:18:59.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u751F\u6210\u6708\u4EAE.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\ANM\\loading\\\u751F\u6210\u6708\u4EAE.cs",
+              "RelativeDocumentMoniker": "Assets\\ANM\\loading\\\u751F\u6210\u6708\u4EAE.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\ANM\\loading\\\u751F\u6210\u6708\u4EAE.cs",
+              "RelativeToolTip": "Assets\\ANM\\loading\\\u751F\u6210\u6708\u4EAE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T13:34:30.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u4E00\u8FB9\u65CB\u8F6C\u4E00\u8FB9\u4E0B\u843D.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\ANM\\loading\\\u4E00\u8FB9\u65CB\u8F6C\u4E00\u8FB9\u4E0B\u843D.cs",
+              "RelativeDocumentMoniker": "Assets\\ANM\\loading\\\u4E00\u8FB9\u65CB\u8F6C\u4E00\u8FB9\u4E0B\u843D.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\ANM\\loading\\\u4E00\u8FB9\u65CB\u8F6C\u4E00\u8FB9\u4E0B\u843D.cs",
+              "RelativeToolTip": "Assets\\ANM\\loading\\\u4E00\u8FB9\u65CB\u8F6C\u4E00\u8FB9\u4E0B\u843D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T12:21:15.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u6E38\u620F\u754C\u9762UI.cs",
+              "DocumentMoniker": "E:\\Chiness Chess\\Assets\\\u6E38\u620F\u754C\u9762UI.cs",
+              "RelativeDocumentMoniker": "Assets\\\u6E38\u620F\u754C\u9762UI.cs",
+              "ToolTip": "E:\\Chiness Chess\\Assets\\\u6E38\u620F\u754C\u9762UI.cs",
+              "RelativeToolTip": "Assets\\\u6E38\u620F\u754C\u9762UI.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T03:58:24.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
